@@ -1,5 +1,5 @@
 # pwsh__CommandExistance
-Powershell util to check the existance of the given command.
+Powershell tool to check the existance of the given command.
 
 # Usage
 ```powershell
